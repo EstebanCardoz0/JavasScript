@@ -11,7 +11,3 @@ f
 let numero=32
 console.log(numero); // 32
 console.log("Hola Mundo JS"); // Hola Mundo JS
-console.log("Hola Mundo JS"); // Hola Mundo JS
-console.log("Hola Mundo JS"); // Hola Mundo JS
-console.log("Hola Mundo JS"); // Hola Mundo JS
-console.log("Hola Mundo JS"); // Hola Mundo JS
